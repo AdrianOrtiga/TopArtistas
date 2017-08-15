@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='https://adrianortiga.github.io/TopArtistas/dist/logo.png')
+    img(src='https://AdrianOrtiga.github.io/TopArtistas/dist/logo.png')
     h1 {{ msg }}
     h2 {{ msg2 }}
     h3 {{ msg3 }}
